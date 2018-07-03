@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+Hi I'm Ruch. I am currently practicing web development.
